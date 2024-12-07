@@ -1,0 +1,23 @@
+:root {
+	--main-font: Times New Asshole v1, gg sans, Helvetica Neue, Helvetica, Arial, sans-serif;
+	--code-font: Consolas, Liberation Mono, Menlo, Courier, monospace;
+	--font-display: var(--main-font);
+	--font-primary: var(--main-font);
+	--font-code: var(--code-font)
+}
+
+::placeholder {
+	font-family: var(--main-font)
+}
+
+.theme-dark .container_ee69e0 .header_fd6364 {
+	font-family: var(--main-font);
+}
+
+.container_fc4f04 .title_fc4f04 {
+	font-family: var(--main-font)
+}
+
+.title_c1668f {
+	font-family: var(--main-font);
+}
